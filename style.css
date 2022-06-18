@@ -1,0 +1,79 @@
+.container{
+    width:1000px;
+    margin: auto;
+    background-color: rgba(0, 0, 10, 0.6);
+    border-radius: 10px;
+    padding: 5%;
+    
+    text-align: center;
+    
+}
+
+header {
+    font-family: roboto ; arial ; sans-serif ; 
+}
+
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+    ;
+}
+
+.logo {
+    width: 200px;
+    margin-top: 100px;
+  
+ 
+}
+
+h2 {
+    color: rgb(3, 227, 3);
+}
+
+h1 {
+    font-size: 20px;
+    font-family: roboto; arial ; sans-serif ; 
+    color: white;
+    display: inline-block;
+}
+
+p {
+    color: white;
+}
+
+
+.navigazione {
+    width: auto;
+    text-align: center;
+    background-color: green;
+    margin: 5px;
+    padding: 10px;
+}
+
+main {
+  text-align: left;
+  margin-left: 6px;
+
+}
+
+#barra1 {
+   width: 300px;
+   height: 30px;
+   background:orange;
+   border-radius: 5px;
+}
+
+#barra2 {
+    width: 500px;
+   height: 30px;
+   background: green;
+   border-radius: 5px;
+}
+
+#barra3 {
+    width: 100px;
+    height: 30px;
+    background:red;
+    border-radius: 5px;
+
+}
